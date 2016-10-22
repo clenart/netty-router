@@ -17,5 +17,5 @@ javacOptions in (Compile, doc) := Seq("-source", "1.6")
 
 //------------------------------------------------------------------------------
 
-libraryDependencies += "io.netty" % "netty-all" % "4.0.31.Final" % "provided"
+libraryDependencies += "io.netty" % "netty-all" % "4.1.5.Final" % "provided"
 libraryDependencies += "junit"    % "junit"     % "4.2"          % "test"
